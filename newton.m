@@ -1,6 +1,5 @@
 function r = newton(f, c, varargin)
     % f is a function handle
-    % g is the derivative of f
     % c is the initial guess
     % (Optional) eps is tolerance value for the correct answer
     % (Optional) max_iterations is the number of iterations before stopping
